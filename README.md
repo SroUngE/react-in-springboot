@@ -8,7 +8,7 @@ It will create a single jar package that contains both the frontend and the back
 * Node.js v18.17.0
 
 ## Tutorials
-Here's my blog about this
+Here's [my blog](https://srounge.github.io/posts/react-springboot/) about this
 
 ## Getting started
 ### Download the project
